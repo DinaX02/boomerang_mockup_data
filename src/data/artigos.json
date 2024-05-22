@@ -1,0 +1,340 @@
+[
+  {
+    "id": 1,
+    "images": [
+      "https://img.freepik.com/free-photo/woman-posing-black-dress-side-view_23-2149697978.jpg?w=360&t=st=1705534824~exp=1705535424~hmac=f76e174b417558db7831640a148dd7cfbfe7b9e007db50391c7bb3fa81720652",
+      "https://img.freepik.com/free-photo/front-view-woman-wearing-black-dress_23-2149697950.jpg?w=360&t=st=1705534867~exp=1705535467~hmac=9a384a4d171b8f75dc40ec197f0c6457c5807fad1bc392406a72d194c99ad8a3",
+      "https://img.freepik.com/free-photo/side-view-woman-posing-black-dress_23-2149697980.jpg?t=st=1705534824~exp=1705535424~hmac=ae2e6bba3b23802ed9cd9af11ae125f263b8247f6a37a8b6cc2f3b149bfdaa5b"
+    ],
+    "title": "Vestido Preto para Cerimónia",
+    "description": "Vestido usado apenas 1 vez num casamento. Está em ótimo estado. É muito leve e confortável.",
+    "brand": "Gucci",
+    "dailyRentalPrice": 5,
+    "size": "S",
+    "color": "Preto",
+    "category": "Vestido",
+    "condition": "Muito Bom",
+    "measurements": {
+      "busto": "90 cm",
+      "cintura": "70 cm",
+      "quadril": "95 cm",
+      "comprimento": "140 cm"
+    },
+    "estimatedValue": 70
+  },
+  {
+    "id": 2,
+    "images": [
+      "https://img.freepik.com/free-photo/fashion-photo-young-magnificent-woman-blue-dress_158595-362.jpg?size=626&ext=jpg&ga=GA1.1.1210606668.1698419982&semt=ais",
+      "https://img.freepik.com/free-photo/fashion-photo-young-magnificent-woman-blue-dress_158595-361.jpg?size=626&ext=jpg&ga=GA1.1.1210606668.1698419982&semt=ais",
+      "https://img.freepik.com/free-photo/fashion-photo-young-magnificent-woman-blue-dress_158595-357.jpg?size=626&ext=jpg&ga=GA1.1.1210606668.1698419982&semt=ais"
+    ],
+    "title": "Vestido Azul para Festa",
+    "description": "Lindo vestido azul usado uma vez em uma festa. Em excelente estado e muito elegante.",
+    "brand": "Versace",
+    "dailyRentalPrice": 7,
+    "size": "M",
+    "color": "Azul",
+    "category": "Mulher",
+    "condition": "Satisfatório",
+    "measurements": {
+      "busto": "85 cm",
+      "cintura": "65 cm",
+      "quadril": "90 cm",
+      "comprimento": "130 cm"
+    },
+    "estimatedValue": 120
+  },
+  {
+    "id": 3,
+    "images": [
+      "https://img.freepik.com/free-photo/graceful-girl-trendy-dress-standing-interested-woman-with-flowers-wavy-hair-posing_197531-20563.jpg?w=360&t=st=1705535037~exp=1705535637~hmac=3cb3a987d9088e8f0263a47412ee5237997c58a8e2f34795c711d1ec451c2b88",
+      "https://img.freepik.com/free-photo/inspired-funny-girl-trendy-dress-dancing-cute-caucasian-lady-with-flowers-her-hair-standing_197531-20574.jpg?w=360&t=st=1705535055~exp=1705535655~hmac=a40e2816febd787c5ad0cdcc1722b804d689998c4c43f107650ed0c35d8c428f",
+      "https://img.freepik.com/free-photo/smiling-cute-girl-with-roses-hair-standing-adorable-european-lady-summer-dress-dancing_197531-20565.jpg?t=st=1705535037~exp=1705535637~hmac=a9486cb912af5bb30ec4a3128c5279a6ee5c6c4c98003861ea17bea9b4071e50"
+    ],
+    "title": "Vestido Floral Primaveril",
+    "description": "Vestido floral leve e colorido, perfeito para a primavera. Em ótimo estado e muito versátil.",
+    "brand": "Dior",
+    "dailyRentalPrice": 6,
+    "size": "S",
+    "color": "Multicolor",
+    "category": "Mulher",
+    "condition": "Bom",
+    "measurements": {
+      "busto": "88 cm",
+      "cintura": "68 cm",
+      "quadril": "92 cm",
+      "comprimento": "135 cm"
+    },
+    "estimatedValue": 160
+  },
+  {
+    "id": 4,
+    "images": [
+      "https://img.freepik.com/free-photo/side-view-elegant-brunette-girl-looking-straight_132075-13823.jpg?w=360&t=st=1705535453~exp=1705536053~hmac=b0785355334d0fc8daf8c1b93425d5bb23b0bb104cdc118a66d448c16d20d974",
+      "https://img.freepik.com/free-photo/side-view-elegant-brunette-girl-looking-straight_132075-13826.jpg?w=360&t=st=1705535471~exp=1705536071~hmac=39627cba27372f67edf999fa56323323ea7247daa2f6dbacb222cb650cc4c8dd"
+    ],
+    "title": "Casaco Xadrez Elegante",
+    "description": "Casaco xadrez elegante, perfeito para o outono. Em excelente estado e muito confortável.",
+    "brand": "Chanel",
+    "dailyRentalPrice": 8,
+    "size": "M",
+    "color": "Multicolor",
+    "category": "Mulher",
+    "condition": "Muito Bom",
+    "measurements": {
+      "busto": "95 cm",
+      "cintura": "75 cm",
+      "quadril": "100 cm",
+      "comprimento": "70 cm"
+    },
+    "estimatedValue": 55
+  },
+  {
+    "id": 5,
+    "images": [
+      "https://img.freepik.com/free-photo/portrait-stylish-handsome-young-man-standing-studio-against-white_155003-17222.jpg?w=360&t=st=1705535639~exp=1705536239~hmac=aa64f4cbee457848140f10234ee08f51965816fb5735d2d3353172bc872d0a79",
+      "https://img.freepik.com/free-photo/portrait-stylish-handsome-young-man-standing-studio-against-white-man-wearing-jacket_155003-22162.jpg?w=360&t=st=1705535669~exp=1705536269~hmac=b313c30dddbf9ae46a3432d1539eae48abe4c70b310f7c7b99c6089b106c6ce9"
+    ],
+    "title": "Fato Preto para Cerimónia",
+    "description": "Fato preto elegante para cerimónias especiais. Em ótimo estado e muito sofisticado.",
+    "brand": "Armani",
+    "dailyRentalPrice": 10,
+    "size": "L",
+    "color": "Preto",
+    "category": "Homem",
+    "condition": "Satisfatório",
+    "measurements": {
+      "tronco": "100 cm",
+      "cintura": "90 cm",
+      "quadril": "105 cm",
+      "comprimento": "150 cm"
+    },
+    "estimatedValue": 95
+  },
+  {
+    "id": 6,
+    "images": [
+      "https://img.freepik.com/free-photo/portrait-handsome-confident-stylish-quadrilter-lambersexual-modelsexy-modern-man-dressed-elegant-suit-fashion-male-posing-studio-near-blue-wall-looking-camera_158538-21044.jpg?w=740&t=st=1705535779~exp=1705536379~hmac=0ff754fe9921cf2be000d404aa362de733587552aa45536d2922c75291ffa247",
+      "https://img.freepik.com/free-photo/portrait-handsome-confident-stylish-quadrilter-lambersexual-modelsexy-modern-man-dressed-elegant-suit-fashion-male-posing-studio-near-blue-wall_158538-21040.jpg?w=740&t=st=1705535776~exp=1705536376~hmac=04de5cd8c5983ec3b0d669149a3af0a069a7690b1579fe45b1b50b28c4912864"
+    ],
+    "title": "Fato Cinza Claro para Escritório",
+    "description": "Fato cinza claro perfeito para o ambiente de escritório. Em bom estado e muito elegante.",
+    "brand": "Hugo Boss",
+    "dailyRentalPrice": 8,
+    "size": "M",
+    "color": "Branco",
+    "category": "Homem",
+    "condition": "Bom",
+    "measurements": {
+      "tronco": "95 cm",
+      "cintura": "80 cm",
+      "quadril": "100 cm",
+      "comprimento": "145 cm"
+    },
+    "estimatedValue": 100
+  },
+  {
+    "id": 7,
+    "images": [
+      "https://img.freepik.com/free-photo/happy-girl-fairy-costume-with-confetti_23-2148737511.jpg?w=360&t=st=1705536056~exp=1705536656~hmac=aebd020665acff0cc4dc16d65f55fc9503bf0ede7ec59dae0cb4661a288f9113",
+      "https://img.freepik.com/free-photo/happy-girl-with-fairy-costume-confetti_23-2148737508.jpg?w=360&t=st=1705536089~exp=1705536689~hmac=8bef17d6950a13e6d0f3582a7cc5ed505ac1fa3b0a7b5eeaf9b08fc9a9dad46c",
+      "https://img.freepik.com/free-photo/smiley-girl-fairy-costume-with-confetti-wand_23-2148737510.jpg?w=740&t=st=1705536075~exp=1705536675~hmac=394ef8cc53ffcc3fd2149873a1d0648c2dd0d5995468b389b89e9f81d83eed52",
+      "https://img.freepik.com/free-photo/cute-girl-with-fairy-costume-wand-her-hand_23-2148737499.jpg?w=360&t=st=1705536077~exp=1705536677~hmac=538e16e8cd0a1d8a5f51942367e6de24ea3cd8b73b4086906bb0fc210f694381"
+    ],
+    "title": "Vestido Rosa para Menina",
+    "description": "Encantador vestido rosa para meninas. Ideal para festas e ocasiões especiais. Em excelente estado.",
+    "brand": "GAP Kids",
+    "dailyRentalPrice": 5,
+    "size": "2 anos",
+    "color": "Rosa",
+    "category": "Criança",
+    "condition": "Muito Bom",
+    "measurements": {
+      "tronco": "60 cm",
+      "cintura": "50 cm",
+      "quadril": "65 cm",
+      "comprimento": "80 cm"
+    },
+    "estimatedValue": 80
+  },
+  {
+    "id": 8,
+    "images": [
+      "https://img.freepik.com/free-photo/child-enjoying-winter-activities-snow_23-2149330018.jpg?w=360&t=st=1705536494~exp=1705537094~hmac=08d0f465e3a354514a66cdac53e484361b41fa7c091f2590e75f2952832685db",
+      "https://img.freepik.com/free-photo/child-enjoying-winter-activities-with-their-family_23-2149330040.jpg?w=360&t=st=1705536521~exp=1705537121~hmac=a3ec490f9e007b8113b6112db2e60b6765d64a6aeb8130a95b195b28b2125e54",
+      "https://img.freepik.com/free-photo/child-enjoying-winter-activities-snow_23-2149330038.jpg?w=360&t=st=1705536570~exp=1705537170~hmac=90c6ee4e8f9abe6beea9bf8f41dd10aec0e092263e3ad06a80444449f5c78e75"
+    ],
+    "title": "Casaco Quente para Criança",
+    "description": "Casaco quente e confortável para crianças. Perfeito para os dias frios de inverno. Em ótimo estado.",
+    "brand": "Carters",
+    "dailyRentalPrice": 4,
+    "size": "4 anos",
+    "color": "Laranja",
+    "category": "Criança",
+    "condition": "Bom",
+    "measurements": {
+      "tronco": "65 cm",
+      "cintura": "55 cm",
+      "quadril": "70 cm",
+      "comprimento": "50 cm"
+    },
+    "estimatedValue": 75
+  },
+  {
+    "id": 9,
+    "images": [
+      "https://img.freepik.com/free-psd/portrait-businesswoman_23-2150116816.jpg?w=360&t=st=1705536654~exp=1705537254~hmac=9074ad3fcaeb4d3ebee5b577e0950a71a829a2ccebec8cee48c57c03bb5e0bd9",
+      "https://img.freepik.com/free-psd/portrait-businesswoman_23-2150116801.jpg?w=1060&t=st=1705536671~exp=1705537271~hmac=c3e50d683d30a8787ab022e0abcff5becbe52c27991861e926e8f2328a054bd6",
+      "https://img.freepik.com/free-psd/portrait-businesswoman_23-2150116810.jpg?w=360&t=st=1705536700~exp=1705537300~hmac=76220df79ebc9dc88326ff917c5fcfc1e35ee1e16c16c751d2f88fc279945310",
+      "https://img.freepik.com/free-psd/portrait-businesswoman_23-2150116810.jpg?w=360&t=st=1705536700~exp=1705537300~hmac=76220df79ebc9dc88326ff917c5fcfc1e35ee1e16c16c751d2f88fc279945310"
+    ],
+    "title": "Blusa Azul ",
+    "description": "Blusa usada apenas 2 vezes numa festa. Com alguns sinais de uso, mas em bom estado. Muito elegante e estilosa.",
+    "brand": "Dior",
+    "dailyRentalPrice": 8,
+    "size": "M",
+    "color": "Azul",
+    "category": "Mulher",
+    "condition": "Satisfatório",
+    "measurements": {
+      "busto": "88 cm",
+      "cintura": "75 cm",
+      "quadril": "92 cm",
+      "comprimento": "145 cm"
+    },
+    "estimatedValue": 105
+  },
+  {
+    "id": 10,
+    "images": [
+      "https://img.freepik.com/free-photo/pretty-woman-wearing-tshirt_1303-14654.jpg?w=360&t=st=1705536768~exp=1705537368~hmac=063a22cdf8517a8dcb0d6635dd8d32966a76a577123cb49224e5e201c3cc7ca6",
+      "https://img.freepik.com/free-photo/pretty-woman-wearing-tshirt_1303-14652.jpg?w=360&t=st=1705536785~exp=1705537385~hmac=b45d59a1373f0f76bb51d0cc22f7f751b2321979af5c0c0c7f6fc739408b7833",
+      "https://img.freepik.com/free-photo/pretty-woman-wearing-tshirt_1303-14653.jpg?w=360&t=st=1705536787~exp=1705537387~hmac=22fbd860bdd571f9cdd44a1f3603c3f8573a9f8927da137d89a9b052ed990361"
+    ],
+    "title": "Camisola Leve Estampada",
+    "description": "Camisola confortável com estampado floral. Ideal para dias mais frescos.",
+    "brand": "Zara",
+    "dailyRentalPrice": 3,
+    "size": "M",
+    "color": "Azul",
+    "category": "Mulher",
+    "condition": "Bom",
+    "measurements": {
+      "busto": "95 cm",
+      "cintura": "80 cm",
+      "quadril": "100 cm",
+      "comprimento": "65 cm"
+    },
+    "estimatedValue": 65
+  },
+  {
+    "id": 11,
+    "images": [
+      "https://img.freepik.com/free-photo/male-fashion-wooden-floor-young-man-posing_144627-44724.jpg?w=360&t=st=1705536835~exp=1705537435~hmac=69f10e30160ea6fbe09c50ef760e444750da3b39135a4dbc82cae10ba3f0ce27",
+      "https://img.freepik.com/free-photo/handsome-man-posing_144627-43635.jpg?w=360&t=st=1705536850~exp=1705537450~hmac=b64d21577080e262db688c732492e6c858a728f0d369f67452c71df94dbdd69e",
+      "https://img.freepik.com/free-photo/male-fashion-wooden-floor-young-man-posing_144627-44725.jpg?t=st=1705536850~exp=1705537450~hmac=5bce0779785b9d492fa8660d8bc2b1e2fccc27083820567bf4339d28a0c117cc"
+    ],
+    "title": "Calças de Ganga Slim Fit",
+    "description": "Calças de ganga confortáveis e elegantes. Modelo slim fit para um look moderno.",
+    "brand": "Levi's",
+    "dailyRentalPrice": 4,
+    "size": "S",
+    "color": "Branco",
+    "category": "Homem",
+    "condition": "Satisfatório",
+    "measurements": {
+      "cintura": "78 cm",
+      "inseam": "82 cm"
+    },
+    "estimatedValue": 120
+  },
+  {
+    "id": 12,
+    "images": [
+      "https://img.freepik.com/free-photo/pretty-happy-young-woman-standing-front-wooden-crate_23-2148049483.jpg?size=626&ext=jpg&ga=GA1.1.1210606668.1698419982",
+      "https://www.freepik.com/free-photo/smiling-portrait-blonde-young-woman-standing-front-white-flowers_3865763.htm#&position=28&from_view=collections&uuid=d8d9df69-4bfe-44b0-855d-83124a1775f1",
+      "https://www.freepik.com/free-photo/blonde-young-woman-posing-front-flower-decoration_3865762.htm?query=vestido%20floral#from_view=detail_alsolike"
+    ],
+    "title": "Vestido Floral Elegante",
+    "description": "Vestido com estampado floral, perfeito para eventos especiais. Elegância e conforto em um só.",
+    "brand": "Dolce & Gabbana",
+    "dailyRentalPrice": 7,
+    "size": "M",
+    "color": "Branco",
+    "category": "Mulher",
+    "condition": "Muito Bom",
+    "measurements": {
+      "busto": "92 cm",
+      "cintura": "75 cm",
+      "quadril": "98 cm",
+      "comprimento": "145 cm"
+    },
+    "estimatedValue": 50
+  },
+  {
+    "id": 13,
+    "images": [
+      "https://www.freepik.com/free-photo/portrait-pretty-little-girl-pink-dress_6492728.htm#query=vestido%20crian%C3%A7a&position=13&from_view=search&track=ais&uuid=b630f351-10e6-4c0c-8b61-49c2737c78d1",
+      "https://www.freepik.com/free-photo/portrait-pretty-little-girl-pink-dress_6492736.htm#query=vestido%20crian%C3%A7a&position=0&from_view=search&track=ais&uuid=b630f351-10e6-4c0c-8b61-49c2737c78d1"
+    ],
+    "title": "Vestido de Festa para Criança",
+    "description": "Vestido de festa para crianças, ideal para ocasiões especiais. Lindo e confortável.",
+    "brand": "C&A Kids",
+    "dailyRentalPrice": 4,
+    "size": "6-8 anos",
+    "color": "Rosa",
+    "category": "Criança",
+    "condition": "Satisfatório",
+    "measurements": {
+      "tronco": "75 cm",
+      "cintura": "62 cm",
+      "comprimento": "90 cm"
+    },
+    "estimatedValue": 60
+  },
+  {
+    "id": 14,
+    "images": [
+      "https://img.freepik.com/free-photo/athlete-exercising-outdoors-stay-fit_23-2148531082.jpg?w=360&t=st=1705537147~exp=1705537747~hmac=92839fdf4c583606cfd390bb8ac4a973dcb1018b1fe2a314902f1461370920e5",
+      "https://img.freepik.com/free-photo/back-view-adult-male-warming-up-outdoors_23-2148531036.jpg?w=360&t=st=1705537163~exp=1705537763~hmac=56c261dda452aa13d2f441c5195f063fc8f871675e92a453acedde290aafdb24",
+      "https://www.freepik.com/free-photo/portrait-adult-male-exercising-outdoors_7939974.htm#page=2&position=19&from_view=collections&uuid=c1aeed3c-8f95-4772-b5eb-ff5d3db2f0b8"
+    ],
+    "title": "Calças de Treino Confortáveis",
+    "description": "Calças de treino ideais para atividades físicas. Conforto e estilo em um só produto.",
+    "brand": "Nike",
+    "dailyRentalPrice": 3,
+    "size": "L",
+    "color": "Cinza",
+    "category": "Homem",
+    "condition": "Bom",
+    "measurements": {
+      "cintura": "85 cm",
+      "inseam": "78 cm"
+    },
+    "estimatedValue": 70
+  },
+  {
+    "id": 15,
+    "images": [
+      "https://img.freepik.com/free-photo/picture-handsome-caucasian-woman-with-long-dark-wavy-hair-white-shirt-black-pants-heels-posing-camera_132075-9136.jpg?w=360&t=st=1705537512~exp=1705538112~hmac=67d348906f1cc56a23a071c74ad45e17415e4cf1a859a6f88e9d17165dd0e5ae",
+      "https://img.freepik.com/free-photo/picture-handsome-caucasian-woman-with-long-dark-wavy-hair-white-shirt-black-pants-heels-posing-camera_132075-9139.jpg?w=360&t=st=1705537525~exp=1705538125~hmac=5c6e81ead514a1fa32be97ce09cb60266e101555727b8c9f9519aa3fb4c0d90b",
+      "https://img.freepik.com/free-photo/picture-handsome-caucasian-woman-with-long-dark-wavy-hair-white-shirt-black-pants-heels-posing-camera_132075-5866.jpg?w=360&t=st=1705537527~exp=1705538127~hmac=7fa17abaf03bb4d07becca15d2d93c2008f7ede304294558abb689c472391e15"
+    ],
+    "title": "Blusa Elegante",
+    "description": "Blusa elegante perfeita para ocasiões especiais. Em excelente estado, usada apenas duas vezes.",
+    "brand": "Zara",
+    "dailyRentalPrice": 8,
+    "size": "M",
+    "color": "Branco",
+    "category": "Mulher: Camisolas e Casacos",
+    "condition": "Muito Bom",
+    "measurements": {
+      "busto": "95 cm",
+      "cintura": "75 cm",
+      "quadril": "100 cm",
+      "comprimento": "65 cm"
+    },
+    "estimatedValue": 85
+  }
+]

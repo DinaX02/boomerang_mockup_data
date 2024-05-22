@@ -1,0 +1,307 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`snapshot da página Publicar 1`] = `
+<DocumentFragment>
+  <div>
+    <header
+      class="headerBoomerang"
+    >
+      <button
+        class="sc-gswONk krdUba"
+      >
+        <img
+          alt="seta para voltar à página anterior"
+          data-testid="svg-icon"
+          src="back_arrow.svg"
+          style="cursor: pointer;"
+        />
+      </button>
+      <h1
+        style="font-size: 16px; margin-bottom: 0px;"
+      >
+        Publicar
+      </h1>
+    </header>
+    <div
+      class="sc-bcXGCL igpRmy fundoModal"
+      style="display: none;"
+    >
+      <div
+        class="modalContent"
+      >
+        <p
+          class="textoModal"
+        >
+          Se retrocederes agora, vais perder todas as alterações que efetuaste. Descartar edições?
+        </p>
+        <button
+          class="btnOK alert"
+        >
+          Não
+        </button>
+        <div
+          class="vl"
+        />
+        <button
+          class="btnOK alert sim"
+        >
+          Sim
+        </button>
+      </div>
+    </div>
+    <div
+      class="MuiStack-root css-6kchnu-MuiStack-root"
+    >
+      <div
+        class="MuiStepper-root MuiStepper-horizontal css-ern8f7-MuiStepper-root"
+        style="width: 90%; margin-top: 1.5em; align-self: center;"
+      >
+        <div
+          class="MuiStep-root MuiStep-horizontal css-1bw0nnu-MuiStep-root"
+        >
+          <span
+            class="MuiStepLabel-root MuiStepLabel-horizontal css-ascpo7-MuiStepLabel-root"
+          >
+            <span
+              class="MuiStepLabel-iconContainer Mui-active css-vnkopk-MuiStepLabel-iconContainer"
+            >
+              <div
+                class="css-qamh6w"
+              >
+                <div
+                  class="css-t3d9zx"
+                />
+              </div>
+            </span>
+            <span
+              class="MuiStepLabel-labelContainer css-1vyamtt-MuiStepLabel-labelContainer"
+            />
+          </span>
+        </div>
+        <div
+          class="MuiStepConnector-root MuiStepConnector-horizontal Mui-disabled css-dzeto-MuiStepConnector-root"
+        >
+          <span
+            class="MuiStepConnector-line MuiStepConnector-lineHorizontal css-z7uhs0-MuiStepConnector-line"
+          />
+        </div>
+        <div
+          class="MuiStep-root MuiStep-horizontal css-1bw0nnu-MuiStep-root"
+        >
+          <span
+            class="MuiStepLabel-root MuiStepLabel-horizontal Mui-disabled css-ascpo7-MuiStepLabel-root"
+          >
+            <span
+              class="MuiStepLabel-iconContainer Mui-disabled css-vnkopk-MuiStepLabel-iconContainer"
+            >
+              <div
+                class="css-qamh6w"
+              >
+                <div
+                  class="css-t3d9zx"
+                />
+              </div>
+            </span>
+            <span
+              class="MuiStepLabel-labelContainer css-1vyamtt-MuiStepLabel-labelContainer"
+            />
+          </span>
+        </div>
+        <div
+          class="MuiStepConnector-root MuiStepConnector-horizontal Mui-disabled css-dzeto-MuiStepConnector-root"
+        >
+          <span
+            class="MuiStepConnector-line MuiStepConnector-lineHorizontal css-z7uhs0-MuiStepConnector-line"
+          />
+        </div>
+        <div
+          class="MuiStep-root MuiStep-horizontal css-1bw0nnu-MuiStep-root"
+        >
+          <span
+            class="MuiStepLabel-root MuiStepLabel-horizontal Mui-disabled css-ascpo7-MuiStepLabel-root"
+          >
+            <span
+              class="MuiStepLabel-iconContainer Mui-disabled css-vnkopk-MuiStepLabel-iconContainer"
+            >
+              <div
+                class="css-qamh6w"
+              >
+                <div
+                  class="css-t3d9zx"
+                />
+              </div>
+            </span>
+            <span
+              class="MuiStepLabel-labelContainer css-1vyamtt-MuiStepLabel-labelContainer"
+            />
+          </span>
+        </div>
+        <div
+          class="MuiStepConnector-root MuiStepConnector-horizontal Mui-disabled css-dzeto-MuiStepConnector-root"
+        >
+          <span
+            class="MuiStepConnector-line MuiStepConnector-lineHorizontal css-z7uhs0-MuiStepConnector-line"
+          />
+        </div>
+        <div
+          class="MuiStep-root MuiStep-horizontal css-1bw0nnu-MuiStep-root"
+        >
+          <span
+            class="MuiStepLabel-root MuiStepLabel-horizontal Mui-disabled css-ascpo7-MuiStepLabel-root"
+          >
+            <span
+              class="MuiStepLabel-iconContainer Mui-disabled css-vnkopk-MuiStepLabel-iconContainer"
+            >
+              <div
+                class="css-qamh6w"
+              >
+                <div
+                  class="css-t3d9zx"
+                />
+              </div>
+            </span>
+            <span
+              class="MuiStepLabel-labelContainer css-1vyamtt-MuiStepLabel-labelContainer"
+            />
+          </span>
+        </div>
+        <div
+          class="MuiStepConnector-root MuiStepConnector-horizontal Mui-disabled css-dzeto-MuiStepConnector-root"
+        >
+          <span
+            class="MuiStepConnector-line MuiStepConnector-lineHorizontal css-z7uhs0-MuiStepConnector-line"
+          />
+        </div>
+        <div
+          class="MuiStep-root MuiStep-horizontal css-1bw0nnu-MuiStep-root"
+        >
+          <span
+            class="MuiStepLabel-root MuiStepLabel-horizontal Mui-disabled css-ascpo7-MuiStepLabel-root"
+          >
+            <span
+              class="MuiStepLabel-iconContainer Mui-disabled css-vnkopk-MuiStepLabel-iconContainer"
+            >
+              <div
+                class="css-qamh6w"
+              >
+                <div
+                  class="css-t3d9zx"
+                />
+              </div>
+            </span>
+            <span
+              class="MuiStepLabel-labelContainer css-1vyamtt-MuiStepLabel-labelContainer"
+            />
+          </span>
+        </div>
+      </div>
+    </div>
+    <div
+      class="sc-hLBatu kzsZRx"
+    >
+      <div
+        class="sc-csuRvn hDMiPI"
+        for="images"
+      >
+        <label
+          class="sc-kDvuXt jWTMV addImgInputPublish"
+          for="images"
+        >
+          <span
+            class="colourGreenAsterisk"
+          >
+            +
+          </span>
+           Adicionar Fotografias
+          <span
+            class="colourGreenAsterisk"
+          >
+            *
+          </span>
+        </label>
+        <input
+          accept="image/*"
+          id="images"
+          multiple=""
+          style="opacity: 0; position: absolute; z-index: -1; max-width: 600px; width: 90%;"
+          type="file"
+        />
+        <p
+          class="sc-ipEzrc dqzeBJ"
+        >
+          Adiciona até 5 fotografias
+        </p>
+        <div
+          class="sc-gKPSgB enKMZP"
+        />
+      </div>
+      <label
+        class="sc-eDvShL dRYxAC"
+        for="title"
+      >
+        Título 
+        <span
+          class="colourGreenAsterisk"
+        >
+          *
+        </span>
+      </label>
+      <textarea
+        class="sc-eDVOW GgVhu productFormInput"
+        id="title"
+        placeholder="Ex: Casaco de Pele Preto"
+        style="font-size: 15px;"
+        type="text"
+      />
+      <label
+        class="sc-eDvShL dRYxAC"
+        for="description"
+      >
+        Descrição 
+        <span
+          class="colourGreenAsterisk"
+        >
+          *
+        </span>
+        <span
+          class="countCharDescription"
+        >
+          16/150
+        </span>
+      </label>
+      <input
+        class="sc-jSVask hgNVEH productFormInput"
+        data-testid="description-input"
+        id="description"
+        placeholder="Ex: Casaco de Pele em bom estado."
+        style="font-size: 15px;"
+        value="Test Description"
+      />
+      <label
+        class="sc-eDvShL dRYxAC"
+        for="description"
+      >
+        <span
+          class="colourGreenAsterisk"
+        >
+          *
+        </span>
+         Campo Obrigatório
+      </label>
+      <div
+        class="sc-jrcSHq UJMpq"
+      >
+        <button
+          class="sc-dkrGBB eiKdDW btnComponent"
+          disabled=""
+          style="background-color: rgb(202, 202, 202);"
+          type="button"
+          width="144px"
+        >
+          Próximo
+        </button>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;

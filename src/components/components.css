@@ -1,0 +1,715 @@
+/* -----geral----- */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Raleway&display=swap');
+
+body{
+background-color: #F8F8F8;
+}
+
+/* -----estilos Header----- */
+
+.headerBoomerang{
+    background-color: #00C17C;
+    color:white;
+    min-height: 67px;
+    display: flex;
+    align-items: center;
+}
+
+.headerBoomerang h3{
+    margin-top: 0;
+    margin-bottom: 0;
+    color: #FFF;
+    /* font-family: Montserrat; */
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.headerBoomerang img{
+    margin-left: 28px;
+    margin-right: 24px;
+    /* padding: 10px; */
+}
+
+
+
+
+@media only screen and (min-width: 600px) {
+  .NavbarWeb{
+display: flex;
+  }
+
+
+}
+
+
+/* -----Preview Card Component----- */
+
+.imgCardPreview {
+  background-image: url("../assets/icons/img_default_card_preview.svg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 70%;
+  max-width: 130px;
+  height: 130px;
+  border-radius: 5px;
+  margin-right: 10px;
+}
+
+.containerPreview {
+  max-width: 580px;
+  padding: 15px;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: row;
+  box-shadow: 0 7px 20px rgba(0, 0, 0, 0.1);
+  align-items: center;
+  justify-content: center;
+
+  @media (max-width: 500px) {
+    max-width: 80vw;
+  }
+
+  @media (max-width: 450px) {
+    max-width: 90vw;
+    padding: 10px;
+  }
+}
+
+.textContainerPreview {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  justify-content: flex-start;
+  align-items: flex-start;
+  text-align: left;
+}
+
+.titlePreview, .descriptionPreview {
+  margin: 0;
+}
+
+.descriptionPreview {
+  margin-top: 0.5em;
+  font-size: 16px;
+}
+
+.titlePreview {
+  color: #000;
+  font-size: 1em;
+  font-style: normal;
+  font-weight: 600;
+}
+
+.dividerPreview {
+  border-left: 2px solid #E4E4E4;
+  margin: 0 10px;}
+
+.priceContainerPreview {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  min-width: 24px;
+  align-items: center;
+  border-left: 2px solid #E4E4E4;
+  padding-left: 5px;
+  margin-left: 0.3em;
+}
+
+.priceLabelPreview, .totalPreview {
+  margin: 0.5em;
+}
+
+.priceLabelPreview {
+  color: #2e2e2e;
+  font-family: Montserrat;
+  font-size: 0.8em;
+  font-style: normal;
+  font-weight: bold;
+}
+
+.totalPricePreview {
+  color: #00C17C;
+  font-family: Montserrat;
+  font-size: 1em;
+  font-style: normal;
+  font-weight: 600;
+}
+
+/* -----Navbar Web----- */
+
+.NavbarWeb {
+    display: none !important;
+    height: 70px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-right: 2em;
+    padding-left: 36px;
+    position: relative;
+    background-color: #343541;
+  }
+  
+  
+  .NavbarWeb a {
+    text-decoration: none !important;
+    color: white;
+  }
+  
+  .navLogoWeb {
+    display: flex;
+    color: #0c0909 !important;
+    flex-direction: row;
+    align-items: center;
+  }
+  
+  .navbarLogoImg{
+    /* width: 23px; */
+    width: 43px;
+    height: auto;
+    padding-right: 1em;
+  }
+
+  .NavbarWeb > .navLogoWeb {
+    font-weight: 700;
+    font-size: 21px;
+    color: white;
+  }
+  
+  .NavbarWeb > .nav-items > a {
+    color: white;
+    font-size: 16px;
+    text-decoration: none;
+    margin: 15px;
+    position: relative;
+    opacity: 0.9;
+  }
+  
+  .NavbarWeb > .nav-items > a:hover {
+    opacity: 1;
+  }
+  
+  .NavbarWeb > .nav-items > a::before {
+    content: "";
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 0;
+    height: 2px;
+    background-color: #00C17C;
+    transition: all 0.45s;
+  }
+  
+  
+  
+  .NavbarWeb > .nav-items > a:hover::before {
+    width: 100%;
+  }
+  
+  .NavbarWeb > .nav-toggle {
+    display: none;
+  }
+
+  
+/* ----- ProgressPublish ----- */
+
+.productForm {
+  display: flex;
+  flex-direction: column;
+  width: 90%;
+  max-width: 600px;
+  margin: 0 auto;
+  justify-content: center;
+  height: calc(100vh - 70px - 67px);
+ }
+ 
+ .productForm label {
+  margin-top: 1rem;
+  font-weight: 500;
+  margin-bottom: 0.3em;
+  font-size: 14px;
+ }
+ 
+ .productFormInput{
+  padding: 0.5rem;
+  box-shadow: 0 7px 20px rgba(0, 0, 0, 0.1);
+  border-radius: 5px;
+  outline: none;
+  border: none;
+ }
+ 
+ .imagePreview {
+  position: relative;
+  margin-right: 0.5rem;
+  display: inline-block; 
+ }
+ 
+ .imagePreviewImg {
+  width: 160px;
+  height: 160px;
+  object-fit: cover;
+  margin-right: 0.5rem;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  margin-bottom: 0.8em;
+ }
+
+ .imagesPreviewContainer {
+  display: flex;
+  max-width: 95%;
+  overflow-x: auto;
+  overflow-y: hidden;
+  margin-top: 0.6em;
+}
+ 
+.imagesPreviewContainer::-webkit-scrollbar {
+  height: 10px !important;
+}
+
+
+.imagesPreviewContainer::-webkit-scrollbar-track {
+  border-radius: 8px;
+  background-color: #e7e7e7;
+  border: 1px solid #cacaca;
+}
+
+.imagesPreviewContainer::-webkit-scrollbar-thumb {
+  border-radius: 8px;
+  background-color: #00C17C;
+}
+
+.removeImageButton {
+  position: absolute;
+  top: 8px;
+  right: 17px;
+  background-color: #fff;
+  border: none;
+  cursor: pointer;
+  font-size: 14px;
+  border-radius: 20px;
+}
+
+ /* button[type="submit"] {
+  margin-top: 1rem;
+  padding: 0.5rem 1rem;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+ }
+ 
+ button[type="submit"]:hover {
+  background-color: #0056b3;
+ } */
+
+ .imageUpload {
+  display: flex;
+  flex-direction: column !important;
+  align-items: center;
+  justify-content: center;
+  padding: 0.5rem;
+  border-radius: 5px;
+  
+  box-shadow: 0 7px 20px rgba(0, 0, 0, 0.1);
+  height: 300px;
+}
+
+
+.imageUpload input[type="file"] {
+  margin-top: 0.5em; 
+  align-self: center;
+
+}
+
+.colourGreenAsterisk{
+  color: #00C17C;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+.btnProximoPublicar{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 3em;
+}
+
+.containerDoisBtn{
+  display: flex;
+  flex-direction: row;
+  width: 90%;
+  max-width: 600px;
+  margin-top: 20.2em;
+  margin-right: auto;
+  margin-left: auto;
+  justify-content: space-evenly;
+}
+
+
+.countCharDescription{
+  font-size: 12px;
+  color: #545454;
+  margin-left: 5px;
+}
+
+.addImgInputPublish{
+border: 1px solid #CACACA;
+box-shadow: 0 3px 10px rgba(0, 0, 0, 0.1);
+padding: 8px;
+border-radius: 5px;
+}
+
+.spaceTopComponent{
+margin-top: 2.5em;
+}
+
+/* -----ButtonForOpenBottomSheet----- */
+.containerBtnForOpenBottomSheet {
+  display: flex;
+  width: 90%;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.btnForOpenBottomSheet {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  color: #000;
+  font-family: Montserrat;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  padding: 12px 20px;
+  background-color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  outline: none;
+  box-shadow: 0 3px 10px rgba(0, 0, 0, 0.1);
+  width: 100%; 
+  margin-bottom: 24px;
+}
+
+.dropdownIcon {
+  width: 16px;
+  height: auto;
+}
+
+/* -----progresssbar----- */
+
+/* -----outros----- */
+
+
+
+/* -----Publicar Page----- */
+
+.publicarPage{
+  height: calc(100vh - 67px);
+  overflow-x: hidden;
+}
+
+/* -----@media----- */
+
+
+@media (max-width: 500px) {
+  .imgCardPreview {
+    max-width: 100px;
+    height: 100px;
+}
+} 
+
+@media (max-width: 425px) {
+    .header h3 {
+        font-size: 16px;
+    }
+
+    .imgCardPreview {
+      max-width: 80px;
+      height: 80px;
+  }
+} 
+
+@media screen and (max-width: 768px) {
+
+  .descriptionPreview {
+    font-size: 14px;
+  }
+
+  .titlePreview {
+    font-size: 0.9em;
+  }
+
+}
+
+@media screen and (max-width: 480px) {
+
+  .descriptionPreview {
+    font-size: 12px;
+  }
+
+  .titlePreview {
+    font-size: 0.8em;
+  }
+
+}
+
+@media (max-width: 600px) {
+  .containerPreview {
+    max-width: 90vw;
+    padding: 10px;
+  }
+
+  .productForm {
+    height: calc(100vh - 67px);
+   }
+
+   .imagePreviewImg {
+    width: 120px;
+    height: 120px;
+  }
+
+  }
+
+@media (max-width: 836px) {
+    
+    .NavbarWeb {
+      position: static;
+      justify-content: space-between;
+    }
+  
+    .NavbarWeb > .nav-items {
+      color: #2e2e2e !important;
+      position: absolute;
+      top: 70px;
+      display: flex;
+      background-color:#F8F8F8;
+      flex-direction: column;
+      left: 0;
+      width: 100%;
+      height: calc(100vh - 70px);
+      transform: translateX(-100%);
+      transition: all 0.45s;
+      z-index: 5;
+      text-align: center;
+      justify-content: center;
+    }
+  
+    .NavbarWeb > .nav-items > a {
+      color: #2e2e2e !important;  
+      /* margin-left: 36px; */
+    }
+  
+    .Navbar > .nav-items > a::before {
+      background: transparent;
+    }
+  
+    .NavbarWeb > .nav-items.open {
+      transform: translateX(0);
+    }
+  
+    .NavbarWeb > .nav-toggle {
+      display: flex;
+      width: 50px;
+      height: 50px;
+      align-items: center;
+      justify-content: center;
+      cursor: pointer;
+      margin-right: 0.4em;
+    }
+  
+    .nav-toggle > .bar {
+      position: relative;
+      width: 32px;
+      height: 2px;
+      background: white;
+    }
+  
+    .nav-toggle > .bar::before,
+    .nav-toggle > .bar::after {
+      content: "";
+      position: absolute;
+      height: 2px;
+      background: white;
+      border-radius: 2px;
+      transition: all 0.45s ease-in-out;
+    }
+  
+    .nav-toggle > .bar::before {
+      width: 25px;
+      transform: translateY(-8px);
+      right: 0;
+    }
+  
+    .nav-toggle > .bar::after {
+      width: 32px;
+      transform: translateY(8px);
+      right: 0;
+    }
+  
+    .nav-toggle.open > .bar {
+      background: transparent;
+    }
+  
+    .nav-toggle.open > .bar::before {
+      width: 32px;
+      transform: rotate(45deg);
+    }
+  
+    .nav-toggle.open > .bar::after {
+      transform: rotate(-45deg);
+    }
+  }
+
+/* -----Material Dropdowns----- */
+
+.MuiList-root li{
+    min-height: auto;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 13px;
+    font-weight: 500;
+    padding: 5px 15px;
+
+
+}
+
+  /* -----Filtros----- */
+
+  .overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: white;
+    z-index: 1; /* Para colocar por cima dos outros elementos */
+  }
+  .filterHeader{
+    display: flex;
+    padding: 35px 25px 10px 25px;
+    width: 100%;
+  }
+  .filterTitle{
+    width: 90%;
+  }
+  .filterTitle h2{
+    font-weight: 700;
+    font-size: 22px;
+  }
+  .filterClose{
+    text-align: right;
+    width: 10%;
+  }
+  .filterClose img{
+    width: 20px;
+    height: 20px;
+  }
+  .filterClose button{
+    border: none;
+    background-color: transparent;
+  }
+
+  .filterButton{
+  background-color: #00C17C;
+    width: 50px;
+    height: 50px;
+    border-radius: 7px;
+    border: none;
+  }
+  
+  .filterMenu {
+    background-color: white;
+    width: 100%;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items:baseline;
+  }
+  
+  .accordionFilter{
+    width: 100%;
+  
+  }
+  .accordionFilter hr{
+   margin: 5px;
+  
+  }
+  
+  
+  .accordionSeparador{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 20px;
+  }
+  .accordionSeparador img{
+    width: 15px;
+    height: 15px;
+  
+  }
+  
+  .accordion {
+    background-color: white;
+    
+    width: 100%;
+    border: none;
+    text-align: left;
+    font-size: 16px;
+    font-weight: 600;
+    transition: 0.4s;
+  }
+  
+  
+  .panel {
+    padding: 5px 20px;
+    background-color: white;
+    overflow: hidden;
+    display: block;
+    transition: max-height 0.2s ease-out;
+  }
+  .panel label {
+    display: flex;
+    width: 100%;
+    padding: 5px 15px;
+    font-size: 16px;
+    align-items: center;
+    
+  }
+
+  
+  .radioInput{
+    width: 18px;
+    height: 18px;
+    margin-right: 10px;
+  }
+
+  .filtroAplicar{
+    display: flex;
+    justify-content: center;
+  }
+
+/* estilos personalizados calendario */
+
+.react-calendar {
+  max-width: 400px !important;
+  width: 90vw !important;
+  margin: 35px 0 65px 0;
+  border: 0 !important;
+  filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.09));
+  border-radius: 5px;
+}
+
+.react-calendar__tile--now{
+  background-color: lightgray !important;
+}
+
+.react-calendar__tile--active:enabled:hover, .react-calendar__tile--active:enabled:focus{
+  background-color: #00C17C !important; 
+}
+
+.react-calendar__tile--active{
+  background-color: #00C17C !important; 
+}

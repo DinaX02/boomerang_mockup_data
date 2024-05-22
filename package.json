@@ -1,0 +1,70 @@
+{
+  "name": "boomerang_project",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@emotion/react": "^11.11.3",
+    "@emotion/styled": "^11.11.0",
+    "@mui/icons-material": "^5.15.4",
+    "@mui/material": "^5.15.4",
+    "@reduxjs/toolkit": "^2.0.1",
+    "@testing-library/jest-dom": "^5.17.0",
+    "@testing-library/user-event": "^13.5.0",
+    "bootstrap": "^5.3.2",
+    "downshift": "^8.3.1",
+    "lint": "^0.8.19",
+    "netlify-cli": "^17.14.0",
+    "qrcode.react": "^3.1.0",
+    "react": "^18.2.0",
+    "react-bootstrap": "^2.9.2",
+    "react-calendar": "^4.8.0",
+    "react-dom": "^18.2.0",
+    "react-draggable": "^4.4.6",
+    "react-focus-on": "^3.9.3",
+    "react-helmet": "^6.1.0",
+    "react-modal": "^3.16.1",
+    "react-redux": "^9.0.4",
+    "react-responsive": "^10.0.0",
+    "react-responsive-carousel": "^3.2.23",
+    "react-router-dom": "^6.21.2",
+    "react-scripts": "5.0.1",
+    "react-spring": "^9.7.3",
+    "react-swipeable": "^7.0.1",
+    "redux": "^5.0.1",
+    "styled-components": "^6.1.6",
+    "web-vitals": "^2.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "CI=false && react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "lint": "eslint ."
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ],
+    "rules": {
+      "no-restricted-globals": 1
+    }
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@testing-library/react": "^14.1.2",
+    "prettier": "3.1.1",
+    "react-test-renderer": "^18.2.0"
+  }
+}

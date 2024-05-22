@@ -1,0 +1,20 @@
+[
+    {
+        "discount":"10%",
+        "title":"Desconto no próximo aluguer!",
+        "sub":"Válido até: 10 fev"
+    }, {
+        "image":"https://images-ext-1.discordapp.net/external/RZArKn4e8FUJkBwdwNkrKBPPr9RuUq2CW8xMwCIkfw0/%3Fw%3D740%26t%3Dst%3D1704585314~exp%3D1704585914~hmac%3Dcd656f25ba72c089cf9a55b1cd5cdcaff680f743ad447d4b38f436c09698b668/https/img.freepik.com/fotos-gratis/mulher-sorridente-vestindo-vista-frontal-de-vestido-preto_23-2149697945.jpg?format=webp&width=449&height=675",
+        "title":"O seu item foi alugado",
+        "sub":"Vestido preto"
+    }, {
+        "discount":"5%",
+        "title":"Desconto no próximo aluguer!",
+        "sub":"Válido até: 2 fev"
+    },  {
+        "image":"https://img.freepik.com/fotos-gratis/mulher-vestindo-uma-camisa-branca-de-manga-comprida-com-jeans_53876-102914.jpg?w=740&t=st=1705352739~exp=1705353339~hmac=7fba27eb32e25c313727cb6ea253087dbeaae4e2d41456532c080a626445b670",
+        "title":"Alugou o item de solange23",
+        "sub":"Camisa Zara"
+    }
+]
+
